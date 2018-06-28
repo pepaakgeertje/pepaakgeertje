@@ -19,7 +19,7 @@ var radius = 10;
  } 
   
  function draw(){ 
- background(2900); 
+ background(220); 
  if (xBall1 > width - radius || xBall1 < radius){ 
  xSpeed1 = -xSpeed1; 
  } 
